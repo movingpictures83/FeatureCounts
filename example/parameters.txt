@@ -1,0 +1,2 @@
+gtffile	hum37_2_1M.gtf
+bamfile	ex1.bam
